@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MaksimEgorov/WeatherApp/static/css/main.1848a515.chunk.css",
-    "main.js": "/MaksimEgorov/WeatherApp/static/js/main.fa37eea8.chunk.js",
-    "main.js.map": "/MaksimEgorov/WeatherApp/static/js/main.fa37eea8.chunk.js.map",
-    "runtime-main.js": "/MaksimEgorov/WeatherApp/static/js/runtime-main.38496f1d.js",
-    "runtime-main.js.map": "/MaksimEgorov/WeatherApp/static/js/runtime-main.38496f1d.js.map",
-    "static/js/2.22f5d6bb.chunk.js": "/MaksimEgorov/WeatherApp/static/js/2.22f5d6bb.chunk.js",
-    "static/js/2.22f5d6bb.chunk.js.map": "/MaksimEgorov/WeatherApp/static/js/2.22f5d6bb.chunk.js.map",
-    "index.html": "/MaksimEgorov/WeatherApp/index.html",
-    "precache-manifest.161b49a3e766bea5d76048fe3d0d7087.js": "/MaksimEgorov/WeatherApp/precache-manifest.161b49a3e766bea5d76048fe3d0d7087.js",
-    "service-worker.js": "/MaksimEgorov/WeatherApp/service-worker.js",
-    "static/css/main.1848a515.chunk.css.map": "/MaksimEgorov/WeatherApp/static/css/main.1848a515.chunk.css.map",
-    "static/js/2.22f5d6bb.chunk.js.LICENSE": "/MaksimEgorov/WeatherApp/static/js/2.22f5d6bb.chunk.js.LICENSE"
+    "main.css": "/WeatherApp/static/css/main.1848a515.chunk.css",
+    "main.js": "/WeatherApp/static/js/main.809d34ba.chunk.js",
+    "main.js.map": "/WeatherApp/static/js/main.809d34ba.chunk.js.map",
+    "runtime-main.js": "/WeatherApp/static/js/runtime-main.bb279803.js",
+    "runtime-main.js.map": "/WeatherApp/static/js/runtime-main.bb279803.js.map",
+    "static/js/2.22f5d6bb.chunk.js": "/WeatherApp/static/js/2.22f5d6bb.chunk.js",
+    "static/js/2.22f5d6bb.chunk.js.map": "/WeatherApp/static/js/2.22f5d6bb.chunk.js.map",
+    "index.html": "/WeatherApp/index.html",
+    "precache-manifest.71c9968d75709b69df40779f6690f218.js": "/WeatherApp/precache-manifest.71c9968d75709b69df40779f6690f218.js",
+    "service-worker.js": "/WeatherApp/service-worker.js",
+    "static/css/main.1848a515.chunk.css.map": "/WeatherApp/static/css/main.1848a515.chunk.css.map",
+    "static/js/2.22f5d6bb.chunk.js.LICENSE": "/WeatherApp/static/js/2.22f5d6bb.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.38496f1d.js",
+    "static/js/runtime-main.bb279803.js",
     "static/js/2.22f5d6bb.chunk.js",
     "static/css/main.1848a515.chunk.css",
-    "static/js/main.fa37eea8.chunk.js"
+    "static/js/main.809d34ba.chunk.js"
   ]
 }
